@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zajeefa
-- 👀 I’m interested in Azure and Cloud Computing 
-- 🌱 I’m currently learning Azure and Phyton 
+- 👀 I’m studying in AWS and Azure Cloud Computing 
+- 🌱 I’m currently learning AWS services
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me dankerpotato0@gmail.com
 
